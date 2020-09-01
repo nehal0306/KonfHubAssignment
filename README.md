@@ -1,4 +1,4 @@
-# KonfHubAssignment
+# KonfHub Backend Task Assignment
 
 Google Colab was used to implement the tasks. 
 
